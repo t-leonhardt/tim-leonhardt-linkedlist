@@ -1,0 +1,60 @@
+Brand, Model, Horsepower, Color, Seats, Doors
+BMW, 530d, 265, Blue, 5, 4
+Honda, Civic, 150, White, 5, 4
+Mercedes, A-Class, 120, Black, 5, 4
+Porsche, 992, 480, Green, 4, 2
+Ford, F-150, 450, Red, 5, 4
+Dodge, Challenger, 720, Yellow, 5, 2
+Rolls Royce, Ghost, 580, Silver, 4, 4
+Hyundai, i30, 140, Gray, 5, 4
+Cadillac, Escalade, 400, Black, 7, 4
+VW, Bug, 50, White, 4, 2
+Audi, A4, 180, Silver, 5, 4
+Audi, A1, 110, Yellow, 5, 2
+Chevrolet, Camaro, 450, Red, 4, 2
+Ferrari, 296GTB, 780, Blue, 2, 2
+Ford, Mustang, 450, Green, 4, 2
+VW, Golf, 180, White, 5, 4
+Porsche, Panamera, 480, Orange, 4, 4
+Mercedes, X-Class, 250, Purple, 5, 4
+Porsche, 991, 500, Green, 2, 2
+Toyota, Yaris, 250, Gray, 4, 2
+Nio, EP-9, 1360, Blue, 2, 2
+Lamborghini, Aventador, 700, Orange, 2, 2
+Tesla, Model S, 600, Red, 5, 4
+Aston Martin, DB11, 580, Gray, 4, 2
+Lexus, LC500, 420, Green, 4, 2
+McLaren, 540c, 540, Yellow, 2, 2
+KTM, X-Bow, 430, Black, 2, 0
+Ford, GT, 580, Blue, 2, 2
+Mercedes, SLS, 600, Silver, 2, 2
+Weineck, Cobra, 1000, Red, 2, 2
+Jaguar, F-Type, 450, Green, 2, 2
+Audi, R8, 620, White, 2, 2
+Mini, Cooper, 210, Black, 4, 2
+BMW, M3, 190, Red, 4, 2
+Aston Martin, One-77, 770, Silver, 2, 2
+Ferrari, F40, 480, Red, 2, 2
+Tesla, Model X, 500, White, 7, 4
+Lexus, LFA, 550, White, 2, 2
+Nissan, Skyline, 280, Blue, 2, 2
+Datsun, 280Z, 200, Yellow, 2, 2
+Mitsubishi, Lancer, 150, Black, 5, 4
+Corvette, C7, 450, Red, 2, 2
+Dodge, Viper, 625, Purple, 2, 2
+Ford, Puma, 130, White, 5, 4
+Porsche, Taycan, 680, Pink, 5, 4
+Tesla, Model 3, 300, Black, 5, 4
+Mercedes, CLS, 250, Silver, 5, 4
+Bentley, Continental GT, 550, Gray, 4, 2
+Opel, Astra, 110, Yellow, 5, 4
+Fiat, 500, 30, Red, 4, 2
+Alpine, A110, 260, Blue, 2, 2
+Zenvo, TS1, 1110, White, 2, 2
+Skoda, Octavia, 150, Black, 5, 4
+Mazda, MX5, 180, Red, 2, 2
+BMW, i3, 130, White, 5, 4
+Lotus, Emira, 450, Orange, 2, 2
+Volvo, V60, 190, Gray, 5, 4
+Dacia, Duster, 100, Purple, 5, 4
+VW, ID3, 130, Blue, 5, 4
